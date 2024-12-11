@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<P align="center"> Magnum Bank </p>
 
-## Available Scripts
+<p align="center">
+    <a href="#sobre"> Sobre - </a>
+    <a href="#tecnologias"> Tecnologias - </a>
+    <a href="#pre-requisitos"> Pré Requisitos - </a>
+    <a href="#autor"> Autor </a>
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+<h4 align="center"> Projeto em Desenvolvimento </h4>
+<h3 align="center">Pendente simulação da chamada à API(Mock)</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Feature
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Desenvolvimento das Telas de Login
+- [x] Desenvolvimentp Tela de Home
+- [x] Desenvolvimento tela de Transações
+- [x] Estilização dos componentes usando "Style Component"
+- [x] Uso do Context do React
+- [ ] Simulação (Mock) de chamada à API 
 
-### `npm test`
+## Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, você vai precisar ter instalado em sua maquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React] (https://learn.microsoft.com/pt-br/windows/dev-environment/javascript/react-on-windows)
+Além disso é bom ter um editor para trabalhar com codigo como [VSCode](https://code.visualstudio.com/)
 
-### `npm run build`
+#### Rodando o Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bash
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Clone do repositorio
 
-### `npm run eject`
+$ https://github.com/eduardobrandao/MagnunBank
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Acesse a pasta do projeto no terminal/cmd
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## $ cd (projeto)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Podemos executar um desses comandos abaixo, para a instalação das dependencias
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+$ npm install
+$ yarn add
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Para execute a aplicação em modo de desenvolvimento, roda o seguinte comando 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+$ npm run dev
+$ yarn run dev
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### O servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
