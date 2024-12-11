@@ -41,9 +41,9 @@ $ https://github.com/eduardobrandao/MagnunBank
 
 # Acesse a pasta do projeto no terminal/cmd
 
-## $ cd (projeto)
+# $ cd (projeto)
 
-#### Podemos executar um desses comandos abaixo, para a instalação das dependencias:
+### Podemos executar um desses comandos abaixo, para a instalação das dependencias:
 
 $ npm install
 <br>
