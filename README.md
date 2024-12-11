@@ -43,16 +43,18 @@ $ https://github.com/eduardobrandao/MagnunBank
 
 ## $ cd (projeto)
 
-#### Podemos executar um desses comandos abaixo, para a instalação das dependencias
+#### Podemos executar um desses comandos abaixo, para a instalação das dependencias:
 
 $ npm install
+<br>
 $ yarn add
 
 ---
 
-#### Para execute a aplicação em modo de desenvolvimento, roda o seguinte comando 
+#### Para execute a aplicação em modo de desenvolvimento, use o seguinte comando:
 
-$ npm run dev
-$ yarn run dev
+$ npm run start
+<br>
+$ yarn run start
 
 #### O servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
