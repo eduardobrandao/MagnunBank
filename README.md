@@ -39,7 +39,7 @@ bash
 
 $ https://github.com/eduardobrandao/MagnunBank
 
-# Acesse a pasta do projeto no terminal/cmd
+### Acesse a pasta do projeto no terminal/cmd
 
 # $ cd (projeto)
 
