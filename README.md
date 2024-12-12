@@ -21,6 +21,7 @@
 - [x] Desenvolvimento tela de Transações
 - [x] Estilização da aplicação usando "Style Component"
 - [x] Uso do Context do React
+- [x] Modal para registro de um novo usuário
 - [ ] Simulação (Mock) de chamada à API 
 
 ## Pré-requisitos
