@@ -1,4 +1,4 @@
-# README
+## README
 
 <P align="center"> Magnum Bank </p>
 
@@ -14,7 +14,7 @@
 <h3 align="center"> Projeto em Desenvolvimento </h3>
 <h4 align="center">Pendente simulação da chamada à API(Mock)</h4>
 
-# Feature
+## Feature
 
 - [x] Desenvolvimento das Telas de Login
 - [x] Desenvolvimentp Tela de Home
@@ -26,7 +26,7 @@
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua maquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React](https://learn.microsoft.com/pt-br/windows/dev-environment/javascript/react-on-windows)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [ReactJs](https://learn.microsoft.com/pt-br/windows/dev-environment/javascript/react-on-windows)
 Além disso é bom ter um editor para trabalhar com codigo como [VSCode](https://code.visualstudio.com/)
 
 #### Rodando o Projeto
