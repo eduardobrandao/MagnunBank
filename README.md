@@ -19,7 +19,7 @@
 - [x] Desenvolvimento das Telas de Login
 - [x] Desenvolvimentp Tela de Home
 - [x] Desenvolvimento tela de Transações
-- [x] Estilização dos componentes usando "Style Component"
+- [x] Estilização da aplicação usando "Style Component"
 - [x] Uso do Context do React
 - [ ] Simulação (Mock) de chamada à API 
 
