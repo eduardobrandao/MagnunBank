@@ -35,7 +35,7 @@ bash
 
 ---
 
-#### Clone do repositorio
+### Clone do repositorio
 
 $ https://github.com/eduardobrandao/MagnunBank
 
@@ -51,10 +51,11 @@ $ yarn add
 
 ---
 
-#### Para execute a aplicação em modo de desenvolvimento, use o seguinte comando:
+### Para execute a aplicação em modo de desenvolvimento, use o seguinte comando:
 
 $ npm run start
 <br>
 $ yarn run start
 
-#### O servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
+### O servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
+## Como não temos serviço(backend) desenvolvido foi adicionado um arquivo auth.jsx (services), nele estar a configuração de acesso credencias (CPF E SENHA)
